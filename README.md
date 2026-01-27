@@ -1,4 +1,4 @@
-# Retail-Orders-Python-SQL-Project
+# Retail Sales Analysis
 The main objectives of this project are to use the Kaggle API to retrieve retail order data, execute pandas data transformation in Python, and use SQL Server for data analysis.
 **[Ref: Ankit Bansal YT Channel](https://www.youtube.com/watch?v=uL0-6kfiH3g)**
 
